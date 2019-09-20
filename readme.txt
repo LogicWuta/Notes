@@ -6,4 +6,5 @@ Git tracks changes.
 Git test,say sth.
 Creating a new branch is quick and simple.
 A new change to commit.
+Fast forward.
 
